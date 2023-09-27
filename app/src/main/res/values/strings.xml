@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Expendedora virtual</string>
+    <string name="titulo1">Expendedora virtual</string>
+    <string name="username">Nombre de usuario :</string>
+    <string name="userpasword">Contraseña :</string>
+    <string name="start">Inicar</string>
+    <string name="ingreso_nombre">Ingrese su Usuario</string>
+    <string name="password">Ingrese su Contraseña</string>
+    <string name="registro">Send</string>
+    <string name="titulo2">SPEEDY SNACKS</string>
+    <string name="titleregistro">Registro</string>
+</resources>
