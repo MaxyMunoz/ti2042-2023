@@ -64,10 +64,61 @@
                 android:drawableLeft="@drawable/ic_action_name"
                 android:ems="10"
                 android:inputType="text"
-                android:text="Name"
+                android:text="@string/User"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/editTextText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:inputType="text"
+                android:text="@string/Rut"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/editTextText8" />
+
+            <EditText
+                android:id="@+id/editTextTextEmailAddress2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
+                android:drawableLeft="@drawable/correo"
+                android:ems="10"
+                android:inputType="textEmailAddress"
+                android:text="@string/Correo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/editTextText" />
+
+            <EditText
+                android:id="@+id/editTextTextPassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="23dp"
+                android:drawableLeft="@drawable/candado"
+                android:drawableRight="@drawable/ojo"
+                android:ems="10"
+                android:inputType="textPassword"
+                android:text="@string/namepasword"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailAddress2" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="153dp"
+                android:layout_height="42dp"
+                android:layout_marginTop="35dp"
+                android:backgroundTint="#038DFA"
+                android:text="@string/registro"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword" />
+
         </androidx.constraintlayout.widget.ConstraintLayout>
     </FrameLayout>
 

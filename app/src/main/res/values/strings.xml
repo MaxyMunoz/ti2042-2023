@@ -9,4 +9,8 @@
     <string name="registro">Send</string>
     <string name="titulo2">SPEEDY SNACKS</string>
     <string name="titleregistro">Registro</string>
+    <string name="User">Nombre</string>
+    <string name="Rut">Rut</string>
+    <string name="Correo">ejemplo@mail.com</string>
+    <string name="namepasword">Password</string>
 </resources>
