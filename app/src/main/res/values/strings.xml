@@ -13,4 +13,5 @@
     <string name="Rut">Rut</string>
     <string name="Correo">ejemplo@mail.com</string>
     <string name="namepasword">Password</string>
+    <string name="volver">retorno</string>
 </resources>
