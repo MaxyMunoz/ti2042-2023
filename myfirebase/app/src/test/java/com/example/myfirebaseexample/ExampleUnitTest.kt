@@ -1,4 +1,4 @@
-package cl.inacap.appmovile.myapplication
+package com.example.myfirebaseexample
 
 import org.junit.Test
 

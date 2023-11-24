@@ -1,4 +1,4 @@
-package cl.inacap.appmovile.myapplication
+package com.example.myfirebaseexample
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("cl.inacap.appmovile.myapplication", appContext.packageName)
+        assertEquals("com.example.myfirebaseexample", appContext.packageName)
     }
 }
