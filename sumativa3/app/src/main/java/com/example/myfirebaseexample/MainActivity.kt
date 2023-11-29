@@ -107,5 +107,8 @@ class MainActivity : AppCompatActivity() {
         capField.setText("${anime?.cap}")
         linkField.setText(anime?.link)
         imgField.setText(anime?.img)
+
+        animeList = arrayListOf<String>()
+        populateIdSpinner()
     }
 }
