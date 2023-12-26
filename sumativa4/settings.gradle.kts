@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Firebase Example"
+rootProject.name = "Sumativa4"
 include(":app")
+ 
