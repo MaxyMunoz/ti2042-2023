@@ -1,8 +1,7 @@
 <resources>
-    <string name="app_name">Sumativa4</string>
-    <string name="Title_Value">Censor de Ambiente</string>
-    <string name="TextDehumidifer">Encender Deshumidificar</string>
-    <string name="TextHumidificador">Encender Humidicador</string>
-    <string name="TextOff">Apagar Dispositivo</string>
-    <string name="TextStatus">"Status: "</string>
+    <string name="app_name">Censor Ambiental</string>
+    <string name="OFFvalue">Apagar Dispositivo</string>
+    <string name="STATUSvalue">STATUS</string>
+    <string name="HumidifierValue">Encender Humidificador</string>
+    <string name="DehumidifierValue">Encender Deshumificador</string>
 </resources>

@@ -10,9 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Sumativa4"
+        android:theme="@style/Theme.CensorAmbiental"
         tools:targetApi="31">
-        a
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -23,6 +22,7 @@
             </intent-filter>
         </activity>
     </application>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
 </manifest>

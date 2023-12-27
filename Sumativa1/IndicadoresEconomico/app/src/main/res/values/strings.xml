@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Indicadores Economico</string>
-    <string name="valor">Dólar Observado</string>
-    <string name="valor_euro">Euro</string>
-    <string name="valor_fomento">Unidad de Fomento</string>
-    <string name="valor_Mensual">Unidad Tributaria Mensual</string>
-    <string name="Dolar">Dolar</string>
-</resources>

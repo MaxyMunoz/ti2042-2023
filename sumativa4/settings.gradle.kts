@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Sumativa4"
+rootProject.name = "Censor Ambiental"
 include(":app")
  
